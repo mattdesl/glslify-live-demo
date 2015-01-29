@@ -4,7 +4,7 @@
 
 [(click for a screencast example)](https://www.youtube.com/watch?v=Bbb2sFH5yf8)
 
-An example project for using [glslify-live](https://github.com/hughsk/glslify-live).
+This is an example project for using [glslify-live](https://github.com/hughsk/glslify-live).
 
 1. git clone `https://github.com/mattdesl/glslify-live-demo.git`
 2. `cd glslify-live-demo`
